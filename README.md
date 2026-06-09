@@ -1,5 +1,5 @@
 # Machine-Learning-Part-1
-# Machine Learning Part 1
+
 
 This repository contains my learning journey and projects from the **Machine Learning Part 1** course. Throughout this course, I explored the fundamental concepts of Machine Learning, Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, and Supervised Learning techniques.
 
